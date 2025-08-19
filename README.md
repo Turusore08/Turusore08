@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Arya Pratama Rhama Putra
 
-## 🤖 AI Engineer | FinTech Specialist | Solving Financial Challenges with AI
+## 🤖 AI Engineer Student| FinTech Enthusiast | Solving Financial Challenges with AI
 
 I'm AI Engineer Student. This semester, I'm studying OOP, Machine Learning, Data Mining, Computational Intelligence, algorithm design and analysis, and Information Security. Below are my skills that I learned outside of college
 
