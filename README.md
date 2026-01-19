@@ -1,11 +1,10 @@
 # Hi there! 👋 I'm Arya Pratama Rhama Putra
 ## 🤖 AI Engineer Student | Conversational AI Enthusiast | Building Intelligent Chat Experiences
 
-I'm an AI Engineer Student specializing in Conversational AI and Natural Language Processing. This semester, I'm studying OOP, Machine Learning, Data Mining, Computational Intelligence, algorithm design and analysis, and Information Security. Below are my skills that I learned outside of college.
+I'm an AI Engineer Student specializing in Conversational AI and Natural Language Processing. This semester, I'm studying Deep Learning, Natural Language Processing, Computer Vision, Software Development, and Computer Graphics. Below are the skills that I learned outside of college.
 
 ### 🔬 Projects Ongoing
-- **RenITS**: Smart patch to detect kidney failure from sweat
-- **Intelligent Customer Service Bot**: Multi-turn conversation system with context awareness
+- **KulinerIn** - aplikasi Strava untuk Wisata Kuliner
 
 ### 🔧 Tech Stack 
 - **Languages**: Python, SQL
@@ -15,7 +14,7 @@ I'm an AI Engineer Student specializing in Conversational AI and Natural Languag
 - **Chatbot Frameworks**: Rasa, Dialogflow, Botpress
 - **MLOps & Deployment**: Docker
 - **Data Engineering**: Pandas, NumPy
-- **Cloud Platforms**: Google Cloud Platform
+- **Cloud Platforms**: Google Cloud Platform, Amazon Web Services
 - **Databases**: PostgreSQL
 
 ### 📈 Areas of Focus
