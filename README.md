@@ -4,7 +4,7 @@
 I'm an AI Engineer Student specializing in Conversational AI and Natural Language Processing. This semester, I'm studying Deep Learning, Natural Language Processing, Computer Vision, Software Development, and Computer Graphics. Below are the skills that I learned outside of college.
 
 ### 🔬 Projects Ongoing
-- **KulinerIn** - aplikasi Strava untuk Wisata Kuliner
+- **TStock** - Finansial NLP yang mentransformasi data fundamental dan laporan keuangan perusahaan yang kompleks menjadi narasi strategis sederhana yang dapat langsung dipahami oleh investor pemula.
 
 ### 🔧 Tech Stack 
 - **Languages**: Python, SQL
