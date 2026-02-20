@@ -34,6 +34,7 @@ I'm an AI Engineer Student specializing in Conversational AI and Natural Languag
 ### 📫 Let's Connect!
 - 💼 LinkedIn: https://www.linkedin.com/in/arya-pratama-rhama-putra-56959b315/
 - 📧 Email: rhamabiasa@gmail.com
+- porto : rhama-portfolio.vercel.app
 
 ---
 *"The best way to predict the future is to invent it, especially when it involves artificial intelligence."*
