@@ -4,7 +4,7 @@
 I'm an AI Engineer Student specializing in Conversational AI and Natural Language Processing. This semester, I'm studying Deep Learning, Natural Language Processing, Computer Vision, Software Development, and Computer Graphics. Below are the skills that I learned outside of college.
 
 ### 🔬 Projects Ongoing
-- **TStock** - Finansial NLP yang mentransformasi data fundamental dan laporan keuangan perusahaan yang kompleks menjadi narasi strategis sederhana yang dapat langsung dipahami oleh investor pemula.
+- **Aicareer**
 
 ### 🔧 Tech Stack 
 - **Languages**: Python, SQL
@@ -24,6 +24,7 @@ I'm an AI Engineer Student specializing in Conversational AI and Natural Languag
 - **Chatbot Development** - Customer service bots, virtual assistants, domain-specific chatbots
 - **Voice Assistants** - Speech-to-text integration, voice-based interactions
 - **MLOps** - Model versioning, continuous integration, monitoring, and deployment
+- **System Architecture** - designing, developing, managing software architecture
 
 ### 🎯 Current Goals
 - Building production-ready chatbot applications that enhance user experiences
