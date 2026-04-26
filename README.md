@@ -34,7 +34,7 @@ I'm an AI Engineer Student specializing in Conversational AI and Natural Languag
 - Developing ethical and inclusive AI-powered chat solutions
 
 ### 📫 Let's Connect!
-- 💼 LinkedIn: https://www.linkedin.com/in/arya-pratama-rhama-putra-56959b315/
+- 💼 LinkedIn: https://www.linkedin.com/in/aryapratamarhamaputra/
 - 📧 Email: rhamabiasa@gmail.com
 - porto : rhama-portfolio.vercel.app
 
