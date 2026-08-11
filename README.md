@@ -5,7 +5,7 @@ I'm an AI Engineer Student specializing in Conversational AI and Natural Languag
 
 ### 🔬 Projects Ongoing
 - **Aicareer**
-- **Jawani**
+- **Mengasli**
 - **Adversarial at Botnet Detection**
 
 
