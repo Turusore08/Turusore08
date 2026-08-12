@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Arya Pratama Rhama Putra
-## 🤖 AI Engineer Student | Conversational AI Enthusiast | Building Intelligent Chat Experiences
+## 🤖 AI Engineer Student | Conversational AI Enthusiast | Data Engineer Intelligence
 
 I'm an AI Engineer Student specializing in Data Engineering Intelligence. This semester, I'm studying Open CV, 3D Modeling, Game, RAG, and Study Project base. Below are the skills that I learned outside of college.
 
