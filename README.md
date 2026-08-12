@@ -40,7 +40,7 @@ I'm an AI Engineer Student specializing in Data Engineering Intelligence. This s
 
 ### 📫 Let's Connect!
 - 💼 LinkedIn: https://www.linkedin.com/in/aryapratamarhamaputra/
-- 📧 Email: rhamabiasa@gmail.com
+- 📧 Email: rhamaputra.business@gmail.com
 - porto : rhama-portfolio.vercel.app
 
 ---
