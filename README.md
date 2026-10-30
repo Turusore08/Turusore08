@@ -87,8 +87,7 @@ currently : Building MengAsli RAG Backend, Aicareer Platform, and researching 3D
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Turusore08&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turusore08&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Turusore08&theme=tokyonight" height="165" alt="Profile Summary" />
+</p>
 
